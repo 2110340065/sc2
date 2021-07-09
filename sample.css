@@ -1,0 +1,24 @@
+button{
+    display: box;
+    box-pack: center;
+    box-sizing: border-box;
+    width: 30%;
+    height: 400px;
+    
+    background:#d13415;
+    padding:10px;
+    text-align:center;
+    color:#FFF;
+    margin:5px;
+    border:1px solid;
+    cursor:pointer;
+    }
+
+#resultBox{
+    background:bisque;
+    padding: 10px;
+    text-align: center;
+    color:black;
+    margin: 5px;
+    border: 1px solid;
+}
